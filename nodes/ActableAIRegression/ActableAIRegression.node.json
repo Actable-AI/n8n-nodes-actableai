@@ -1,0 +1,13 @@
+{
+  "node": "n8n-nodes-actableai.actableairegression",
+  "nodeVersion": "1.0.0",
+  "codexVersion": "1.0",
+  "categories": ["Analytics"],
+  "resources": {
+    "primaryDocumentation": [
+      {
+        "url": "http://actable.ai/"
+      }
+    ]
+  }
+}
